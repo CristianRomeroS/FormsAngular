@@ -21,3 +21,5 @@ import { SwitchesComponent } from './switches/switches.component';
   ]
 })
 export class ReactiveModule { }
+
+//anggular guar load children 
